@@ -213,48 +213,31 @@
 
 ### 🗓️ Monthly LeetCode Badges (2022–2025)
 
-| 📅 Month | 🖼️ Badge | 🗓️ Date |
-| -------- | -------- | -------- |
-| Sep 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-9.png" width="50" height="50"> | 2025-09-30 |
-| Aug 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="50" height="50"> | 2025-08-31 |
-| Jul 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="50" height="50"> | 2025-07-31 |
-| Jun 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-6.png" width="50" height="50"> | 2025-06-30 |
-| May 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-5.png" width="50" height="50"> | 2025-05-31 |
-| Apr 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-4.png" width="50" height="50"> | 2025-04-30 |
-| Mar 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-3.png" width="50" height="50"> | 2025-03-31 |
-| Feb 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" width="50" height="50"> | 2025-02-28 |
-| Jan 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" width="50" height="50"> | 2025-01-31 |
-| Dec 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-12.png" width="50" height="50"> | 2024-12-31 |
-| Nov 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-11.png" width="50" height="50"> | 2024-11-30 |
-| Oct 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" width="50" height="50"> | 2024-10-31 |
-| Sep 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" width="50" height="50"> | 2024-09-30 |
-| Aug 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-8.png" width="50" height="50"> | 2024-08-31 |
-| Jul 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-7.png" width="50" height="50"> | 2024-07-31 |
-| Jun 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="50" height="50"> | 2024-06-30 |
-| May 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="50" height="50"> | 2024-05-31 |
-| Apr 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="50" height="50"> | 2024-04-30 |
-| Mar 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="50" height="50"> | 2024-03-31 |
-| Feb 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="50" height="50"> | 2024-02-29 |
-| Jan 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="50" height="50"> | 2024-01-31 |
-| Dec 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="50" height="50"> | 2023-12-31 |
-| Nov 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="50" height="50"> | 2023-11-30 |
-| Oct 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="50" height="50"> | 2023-10-31 |
-| Sep 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="50" height="50"> | 2023-09-30 |
-| Aug 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="50" height="50"> | 2023-08-31 |
-| Jul 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" width="50" height="50"> | 2023-07-31 |
-| Jun 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" width="50" height="50"> | 2023-06-30 |
-| May 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" width="50" height="50"> | 2023-05-31 |
-| Apr 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" width="50" height="50"> | 2023-04-30 |
-| Mar 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="50" height="50"> | 2023-03-31 |
-| Feb 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="50" height="50"> | 2023-02-28 |
-| Jan 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="50" height="50"> | 2023-01-31 |
-| Dec 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-12.png" width="50" height="50"> | 2022-12-31 |
-| Nov 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-11.png" width="50" height="50"> | 2022-11-30 |
-| Oct 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-10.png" width="50" height="50"> | 2022-10-31 |
-| Sep 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-9.png" width="50" height="50"> | 2022-09-30 |
-| Aug 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-8.png" width="50" height="50"> | 2022-08-31 |
-| Jul 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-7.png" width="50" height="50"> | 2022-07-31 |
-| Jun 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-6.png" width="50" height="50"> | 2022-06-30 |
+### 🗓️ Monthly LeetCode Badges (2022–2025)
+
+| 📅 Month | 🖼️ Badge | 🗓️ Date | 📅 Month | 🖼️ Badge | 🗓️ Date |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Sep 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-9.png" width="50" height="50"> | 2025-09-30 | Aug 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="50" height="50"> | 2025-08-31 |
+| Jul 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-7.png" width="50" height="50"> | 2025-07-31 | Jun 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-6.png" width="50" height="50"> | 2025-06-30 |
+| May 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-5.png" width="50" height="50"> | 2025-05-31 | Apr 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-4.png" width="50" height="50"> | 2025-04-30 |
+| Mar 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-3.png" width="50" height="50"> | 2025-03-31 | Feb 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-2.png" width="50" height="50"> | 2025-02-28 |
+| Jan 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" width="50" height="50"> | 2025-01-31 | Dec 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-12.png" width="50" height="50"> | 2024-12-31 |
+| Nov 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-11.png" width="50" height="50"> | 2024-11-30 | Oct 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" width="50" height="50"> | 2024-10-31 |
+| Sep 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" width="50" height="50"> | 2024-09-30 | Aug 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-8.png" width="50" height="50"> | 2024-08-31 |
+| Jul 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-7.png" width="50" height="50"> | 2024-07-31 | Jun 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="50" height="50"> | 2024-06-30 |
+| May 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="50" height="50"> | 2024-05-31 | Apr 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="50" height="50"> | 2024-04-30 |
+| Mar 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="50" height="50"> | 2024-03-31 | Feb 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-2.png" width="50" height="50"> | 2024-02-29 |
+| Jan 2024 | <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="50" height="50"> | 2024-01-31 | Dec 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-12.png" width="50" height="50"> | 2023-12-31 |
+| Nov 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="50" height="50"> | 2023-11-30 | Oct 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="50" height="50"> | 2023-10-31 |
+| Sep 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="50" height="50"> | 2023-09-30 | Aug 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-8.png" width="50" height="50"> | 2023-08-31 |
+| Jul 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-7.png" width="50" height="50"> | 2023-07-31 | Jun 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-6.png" width="50" height="50"> | 2023-06-30 |
+| May 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-5.png" width="50" height="50"> | 2023-05-31 | Apr 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-4.png" width="50" height="50"> | 2023-04-30 |
+| Mar 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-3.png" width="50" height="50"> | 2023-03-31 | Feb 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-2.png" width="50" height="50"> | 2023-02-28 |
+| Jan 2023 | <img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" width="50" height="50"> | 2023-01-31 | Dec 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-12.png" width="50" height="50"> | 2022-12-31 |
+| Nov 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-11.png" width="50" height="50"> | 2022-11-30 | Oct 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-10.png" width="50" height="50"> | 2022-10-31 |
+| Sep 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-9.png" width="50" height="50"> | 2022-09-30 | Aug 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-8.png" width="50" height="50"> | 2022-08-31 |
+| Jul 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-7.png" width="50" height="50"> | 2022-07-31 | Jun 2022 | <img src="https://leetcode.com/static/images/badges/dcc-2022-6.png" width="50" height="50"> | 2022-06-30 |
+
 
 
 
