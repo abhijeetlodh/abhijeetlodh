@@ -17,7 +17,7 @@
 
 ### 🏆 Achievements
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhijeetlodh?theme=radical&font=IM%20Fell%20French%20Canon%20SC&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhijeetlodh?theme=wtf&font=Molle&ext=heatmap)
 
 - 🥇 **6★ on HackerRank**
 - 🧩 Solved **1100+ Data Structures and Algorithms  Questions**
