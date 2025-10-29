@@ -10,7 +10,7 @@
 - 🎓 **Education:** B.E. in *Computer Science & Engineering* — CGPA **9.93 / 10**
 - 📚 **Currently Pursuing:** *Masters in Financial Engineering* (Part-Time)
 - 💬 **Ask Me About:** Python 🐍 | Data Structures & Algorithms ⚙️ | Deep Learning 🧠 | LLMs 🤖 | RAG 🧩 | MLOps ⚙️
-- 📫 **Reach Me At:** [abhijeetlodh1307@gmail.com](mailto:abhijeetlodh1307@gmail.com)
+- 📫 **Leetcode At:** [https://leetcode.com/u/abhijeetlodh](https://leetcode.com/u/abhijeetlodh)
 - ⚡ **Fun Fact:** For every 60 seconds that pass... a whole minute goes by ⏱️😉
 
 ---
@@ -113,7 +113,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijeet-lodh-sde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Lodh-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:abhijeetlodh1307@gmail.com"><img src="https://img.shields.io/badge/Email-abhijeetlodh1307%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://leetcode.com/u/abhijeetlodh"><img src="https://img.shields.io/badge/Leetcode-https://leetcode.com/u/abhijeetlodh-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/abhijeetlodh"><img src="https://img.shields.io/badge/GitHub-AbhijeetLodh-black?style=for-the-badge&logo=github"></a>
 </p>
 
