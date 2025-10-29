@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://github.com/abhijeetlodh" target="_blank">Abhijeet Lodh</a>!</h1>
-<h3 align="center">🚀 AI Engineer | 🧠 Data Scientist | 🤖 Agentic AI & GenAI Enthusiast</h3>
+<h3 align="center">🚀 AI Engineer | 🧠 Data Scientist | 🤖 Agentic AI & GenAI NERD</h3>
 
 ---
 
