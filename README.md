@@ -6,7 +6,7 @@
 ### 🌟 About Me
 
 - 🔭 **Currently Working On:** Building *Agentic AI Systems* leveraging **Generative AI**, **LLMs**, and **Machine Learning**
-- 🏢 **Professional Experience:** 4+ years in **Generative AI**, **ML**, **DL**, and **MLOps**
+- 🏢 **Professional Experience:** 4+ years in **Generative AI**, **Machine Learning**, **Deep Learning**, and **MLOps**
 - 🎓 **Education:** B.E. in *Computer Science & Engineering* — CGPA **9.93 / 10**
 - 📚 **Currently Pursuing:** *Masters in Financial Engineering* (Part-Time)
 - 💬 **Ask Me About:** Python 🐍 | Data Structures & Algorithms ⚙️ | Deep Learning 🧠 | LLMs 🤖 | RAG 🧩 | MLOps ⚙️
@@ -20,7 +20,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhijeetlodh?theme=radical&font=IM%20Fell%20French%20Canon%20SC&ext=heatmap)
 
 - 🥇 **6★ on HackerRank**
-- 🧩 Solved **1000+ DSA Questions**
+- 🧩 Solved **1100+ Data Structures and Algorithms  Questions**
 - 💡 Built **Production-grade AI/ML Systems** for Fortune 500 clients
 
 ---
@@ -47,7 +47,7 @@
 
 ### 💼 My Current-Professional Journey
 
-# 🚀 Enterprise AI/ML & Generative AI Projects
+# 🚀 Enterprise AI/ML & Generative AI Product Development Role
 
 **🔹 Role:** Full-Time Consultant - *AI/ML/Generative AI Engineer* + *Data Scientist*  
 **🔹 Technologies:** Azure | Databricks | Python | LangChain | LangGraph | LangSmith | AzureOpenAI | Agentic AI | MLOps  
