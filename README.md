@@ -213,8 +213,6 @@
 
 ### 🗓️ Monthly LeetCode Badges (2022–2025)
 
-### 🗓️ Monthly LeetCode Badges (2022–2025)
-
 | 📅 Month | 🖼️ Badge | 🗓️ Date | 📅 Month | 🖼️ Badge | 🗓️ Date |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | Sep 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-9.png" width="50" height="50"> | 2025-09-30 | Aug 2025 | <img src="https://leetcode.com/static/images/badges/dcc-2025-8.png" width="50" height="50"> | 2025-08-31 |
