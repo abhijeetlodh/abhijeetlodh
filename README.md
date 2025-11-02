@@ -271,3 +271,8 @@
 
 ⭐ **If you like what you see, don’t forget to star this repo!**  
 _Always open to collaborating on exciting AI projects 🚀_
+
+Legal Disclaimer (June 2023):
+
+I, Abhijeet Lodh, hereby declare that no audio, video, or image of mine shall ever be created, used, recorded, shared, or reproduced in any manner. I give no consent, and my consent will always be a permanent and absolute “NO” for any such activity, now or in the future. Any such media found anywhere on the internet will be  be considered forged, tampered with, or artificially generated (including AI-generated content). Any individual, organization, or platform involved in creating, using, or distributing such unauthorized media will be subject to strict legal action under the Digital Personal Data Protection Act (DPDP Act), the Information Technology Act, 2000, and any other applicable laws.
+This is my firm, undisputed, and irrevocable statement, and it shall never be changed: Abhijeet Lodh
