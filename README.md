@@ -45,7 +45,7 @@
 
 ---
 
-### 💼 My Current-Professional Journey
+### 💼 My Current-Professional Journey 
 
 # 🚀 Enterprise AI/ML & Generative AI Product Development Role
 
