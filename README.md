@@ -43,30 +43,7 @@
 - 🧠 **Self-Healing AI:** CrewAI, Test-AutoGen, MCP Orchestration  
 - 🧮 **RAG Pipelines:** Hybrid Search, Recursive Chunking, Context-Aware Querying  
 
----
 
-### 💼 My Current-Professional Journey 
-
-# 🚀 Enterprise AI/ML & Generative AI Product Development Role
-
-**🔹 Role:** Full-Time Consultant - *AI/ML/Generative AI Engineer* + *Data Scientist*  
-**🔹 Technologies:** Azure | Databricks | Python | LangChain | LangGraph | LangSmith | AzureOpenAI | Agentic AI | MLOps  
-
-### 🌟 Key Projects & Responsibilities
-- 📦 **Batch QR Code Processing** — Deep Learning Model Deployment  
-- 🧠 **RAG Solution with FAISS + AzureOpenAI** — AI Safety with NVIDIA NeMo Guardrails  
-- ⚡ **FastAPI NLP App** — Serving 100K+ Active Users with Azure AI MLOps  
-- 💬 **IGNIS Chatbot** — Generative AI-driven Agentic Platform  
-- 🔄 **Traditional ML → Generative AI Solutions** — Hybrid Model Implementation  
-- 🧩 **Azure Databricks GenAI Code Remediation Agent** — SAS Parser + Code Transpiler + Self-Healing Agent (Pydantic Model)  
-- 🤖 **Autonomous API Test Agent** — LangGraph + LLM  
-- 🔧 **Self-Healing Data Engineering Pipelines** — Test-AutoGen + CrewAI + Dev-LangGraph + MCP Architecture  
-- 📊 **Big Data Engineering, LLMOps, Deployment & Monitoring**  
-- 📝 **Text-to-SQL AI Agent** — Natural Language Query Interface  
-- ☁️ **Azure VM Deployment** — Hosted Enterprise AI Solutions  
-- 🧠 **Advanced Agent Development** — LangChain + LangGraph + LangSmith with ReAct, ReWoo, Reflection, Tool Use, Planning, Multi-Agent Patterns  
-
----
 
 ---
 
