@@ -6,8 +6,8 @@
 ### 🌟 About Me
 
 - 🔭 **Currently Working On:** Building *Agentic AI Systems* leveraging **Generative AI**, **LLMs**, and **Machine Learning**
-- 🏢 **Professional Experience:** 4+ years in **Generative AI**, **Machine Learning**, **Deep Learning**, and **MLOps**
-- 🎓 **Education:** B.E. in *Computer Science & Engineering* — CGPA **9.93 / 10**
+- 🏢 **Professional Experience:** 14+ years in **Generative AI**, **Machine Learning**, **Deep Learning**, and **MLOps**
+- 🎓 **Education:** B.E. in *Computer Science & Engineering* — CGPA **9.93 / 10** in 2012
 - 📚 **Currently Pursuing:** *Masters in Financial Engineering* (Part-Time)
 - 💬 **Ask Me About:** Python 🐍 | Data Structures & Algorithms ⚙️ | Deep Learning 🧠 | LLMs 🤖 | RAG 🧩 | MLOps ⚙️
 - 📫 **Leetcode At:** [https://leetcode.com/u/abhijeetlodh](https://leetcode.com/u/abhijeetlodh)
